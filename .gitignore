@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+
+# Ignore build
+dist/
+build/
+
+# Ignore env
+.env
+
+# CSV dataset
+backend/data/sales.csv
