@@ -34,3 +34,7 @@ This project is a full-stack sales management application built using Node.js an
 cd backend
 npm install
 npm run dev
+
+Note: The original sales.csv dataset (~223 MB) is not checked into GitHub due to size limits. 
+It can be provided separately on request.
+
