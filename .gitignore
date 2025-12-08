@@ -9,4 +9,5 @@ build/
 .env
 
 # CSV dataset
-backend/data/sales.csv
+#backend/data/sales.csv
+backend/data/sales_full.csv
